@@ -1,6 +1,6 @@
 import { addons } from '@storybook/addons';
-import NeutrinoTheme from './neutrino-theme';
+import SBTheme from './sb-theme';
 
 addons.setConfig({
-  theme: NeutrinoTheme
+  theme: SBTheme
 });
